@@ -46,6 +46,7 @@ namespace MiningCore.Configuration
         DASH, // Dash
         MONA,  // Monacoin
         VTC,  // Vertcoin
+        ELLA = 18, // Ellaism
     }
 
     public class CoinConfig
