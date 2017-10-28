@@ -60,7 +60,7 @@ namespace MiningCore.Blockchain.Ethereum
 	        this.clock = clock;
         }
 
-		private DaemonEndpointConfig[] daemonEndpoints;
+	private DaemonEndpointConfig[] daemonEndpoints;
         private DaemonClient daemon;
         private EthereumNetworkType networkType;
         private ParityChainType chainType;
